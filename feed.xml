@@ -3,7 +3,7 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-07-01T15:16:14-07:00</updated>
+    <updated>2021-07-01T15:19:54-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html"/>
         <id>https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html</id>
 
-        <updated>2021-07-01T15:16:14-07:00</updated>
+        <updated>2021-07-01T15:19:54-07:00</updated>
             <summary>
                 <![CDATA[
                     We believe that privacy is a basic human right, but sadly many companies do not share this philosophy. These days websites have extensive tracking and cookie-usage in order to create a “better” user experience. However, do these technologies actually improve the user’s experience in the&hellip;
@@ -30,8 +30,9 @@
 <p>By these companies tracking and recording so much information about their users, they run the risk of that data being hacked or obtained through other means. Which can eventually harm the user’s privacy and security.</p>
 <p>But, how then does a company create a better user experience (like remembering a user’s page settings)? Well, that is where Project Pear comes into play.</p>
 <p>Project Pear utilizes JavaScript and DOM to create user specific environments without any cookies or trackers. Users are able to create user names and edit the homepage links. By using JavaScript and DOM, the Project Pear website is able to store the user’s settings directly in their browser, not on a server. This not only helps protect the user’s privacy, but helps improve site load time by reducing the amount of data that has to be stored on the server.</p>
-<p><a href="https://borg-creative-studios.github.io/Project-Pear/" target="_BLANK">Project Pear: Website</a></p>
+<p><a href="https://borg-creative-studios.github.io/Project-Pear/" target="_BLANK">Project Pear: Website*</a></p>
 <p><a href="https://github.com/Borg-Creative-Studios/Project-Pear" target="_BLANK">Project Pear: Repository</a></p>
+<p>*The Project Pear website is currently not mobile compatible.</p>
 
             ]]>
         </content>
