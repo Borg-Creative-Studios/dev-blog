@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://dev.borgcreative.com/sitemap.xml
+Disallow: /

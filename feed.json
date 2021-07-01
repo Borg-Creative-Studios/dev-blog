@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html",
+            "url": "https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html",
+            "title": "Project Pear: Developing User Specific Enviornments without Compromising Privacy",
+            "summary": "We believe that privacy is a basic human right, but sadly many companies do not share this philosophy. These days websites have extensive tracking and cookie-usage in order to create a “better” user experience. However, do these technologies actually improve the user’s experience in the&hellip;",
+            "content_html": "<h3 id=\"we-believe-that-privacy-is-a-basic-human-right-but-sadly-many-companies-do-not-share-this-philosophy\">We believe that privacy is a basic human right, but sadly many companies do not share this philosophy.</h3>\n<p>These days websites have extensive tracking and cookie-usage in order to create a “better” user experience. However, do these technologies actually improve the user’s experience in the long run? No.</p>\n<p>By these companies tracking and recording so much information about their users, they run the risk of that data being hacked or obtained through other means. Which can eventually harm the user’s privacy and security.</p>\n<p>But, how then does a company create a better user experience (like remembering a user’s page settings)? Well, that is where Project Pear comes into play.</p>\n<p>Project Pear utilizes JavaScript and DOM to create user specific environments without any cookies or trackers. Users are able to create user names and edit the homepage links. By using JavaScript and DOM, the Project Pear website is able to store the user’s settings directly in their browser, not on a server. This not only helps protect the user’s privacy, but helps improve site load time by reducing the amount of data that has to be stored on the server.</p>\n<p><a href=\"https://borg-creative-studios.github.io/Project-Pear/\" target=\"_BLANK\">Project Pear: Website</a></p>\n<p><a href=\"https://github.com/Borg-Creative-Studios/Project-Pear\" target=\"_BLANK\">Project Pear: Repository</a></p>\n",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-01T15:08:05-07:00",
+            "date_modified": "2021-07-01T15:16:14-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/new-blog-who-is-this.html",
             "url": "https://dev.borgcreative.com/new-blog-who-is-this.html",
             "title": "New Blog, Who is This?",
