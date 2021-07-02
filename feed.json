@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/coconut-browser-extension.html",
+            "url": "https://dev.borgcreative.com/coconut-browser-extension.html",
+            "title": "Coconut Browser Extension",
+            "summary": " We are excited to announce that the Coconut Browser Extension for Safari is now available in early access, and this version is FREE! Coconut&hellip;",
+            "content_html": "\n  <p>\n    We are excited to announce that the Coconut Browser Extension for Safari is now available in early access, and this version is FREE!\n  </p>\n\n    <h5 id=\"sounds-cool-but-what-is-coconut\">\n      \"Sounds cool, but what is Coconut?\"\n    </h5>\n\n  <p>\n    Coconut is a Safari browser extension for blocking cookies and unwanted content on harmful websites.\n  </p>\n\n  <p>\n    Top features:\n  </p>\n\n  <ul>\n    <li>Built for Apple's Safari browser.</li><li>Independent block list</li><li>Blocks cookies on websites with poor privacy practices&nbsp;</li><li>Blocks potentially harmful or NSFW websites</li><li>Blocks distractions</li>\n  </ul>\n\n  <p>\n    Check it out on <a href=\"https://gamejolt.com/games/coconut/629123\" target=\"_blank\" rel=\"nofollow noopener\">GameJolt</a>\n  </p>",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+                   "Product Updates",
+                   "Development",
+                   "Coconut"
+            ],
+            "date_published": "2021-07-02T13:49:33-07:00",
+            "date_modified": "2021-07-02T13:51:00-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html",
             "url": "https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html",
             "title": "Project Pear: Developing User Specific Enviornments without Compromising Privacy",
