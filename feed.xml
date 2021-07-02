@@ -3,7 +3,7 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-07-01T15:21:04-07:00</updated>
+    <updated>2021-07-01T17:25:17-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
@@ -17,9 +17,10 @@
         <link href="https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html"/>
         <id>https://dev.borgcreative.com/project-pear-developing-user-specific-enviornments-without-compromising-privacy.html</id>
             <category term="Research"/>
+            <category term="Project Pear"/>
             <category term="Development"/>
 
-        <updated>2021-07-01T15:21:04-07:00</updated>
+        <updated>2021-07-01T17:25:17-07:00</updated>
             <summary>
                 <![CDATA[
                     We believe that privacy is a basic human right, but sadly many companies do not share this philosophy. These days websites have extensive tracking and&hellip;
