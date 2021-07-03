@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/new-download-page-for-fruity.html",
+            "url": "https://dev.borgcreative.com/new-download-page-for-fruity.html",
+            "title": "New Download Page for Fruity",
+            "summary": " Fruity Web Browser We have moved the Fruity download page from our website to GameJolt to join our other applications on GameJolt. Find it&hellip;",
+            "content_html": "\n    <h2 id=\"fruity-web-browser\">\n      Fruity Web Browser\n    </h2>\n\n  <p>\n    We have moved the Fruity download page from our website to GameJolt to join our other applications on GameJolt.\n  </p>\n\n  <p>\n    Find it <a href=\"https://gamejolt.com/games/fruity/629125\" target=\"_blank\" rel=\"nofollow noopener\">HERE</a>.\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+                   "Product Updates",
+                   "Fruity",
+                   "Development"
+            ],
+            "date_published": "2021-07-03T11:49:31-07:00",
+            "date_modified": "2021-07-03T11:50:35-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/coconut-browser-extension.html",
             "url": "https://dev.borgcreative.com/coconut-browser-extension.html",
             "title": "Coconut Browser Extension",
