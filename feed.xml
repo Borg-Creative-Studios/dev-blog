@@ -3,12 +3,54 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-07-03T11:50:35-07:00</updated>
+    <updated>2021-07-05T14:08:39-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
     <id>https://dev.borgcreative.com</id>
 
+    <entry>
+        <title>Fruity Lemon v2.2.0</title>
+        <author>
+            <name>Borg Creative Studios Dev Team</name>
+        </author>
+        <link href="https://dev.borgcreative.com/fruity-lemon-v220.html"/>
+        <id>https://dev.borgcreative.com/fruity-lemon-v220.html</id>
+            <category term="Product Updates"/>
+            <category term="Fruity"/>
+            <category term="Development"/>
+
+        <updated>2021-07-05T14:08:39-07:00</updated>
+            <summary>
+                <![CDATA[
+                     This version of Lemon includes several new features and a few bug fixes. What's new: Sepia tone/night mode tabsNoise reduction tabsFruity edition of BCS&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This version of Lemon includes several new features and a few bug fixes.
+  </p>
+
+    <h2 id="whats-new">
+      What's new:
+    </h2>
+
+  <ul>
+    <li>Sepia tone/night mode tabs</li><li>Noise reduction tabs</li><li>Fruity edition of BCS Author (Ad-free)</li>
+  </ul>
+
+    <h2 id="bug-fixes">
+      Bug fix(es):
+    </h2>
+
+  <ul>
+    <li>FX dropdown links have been repaired</li><li>Users can now ad a new effect-less tab from the FX menu</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New Download Page for Fruity</title>
         <author>
