@@ -14,7 +14,7 @@
             "url": "https://dev.borgcreative.com/fruity-lemon-v220.html",
             "title": "Fruity Lemon v2.2.0",
             "summary": " This version of Lemon includes several new features and a few bug fixes. Download it here. ",
-            "content_html": "\n  <p>\n    This version of Lemon includes several new features and a few bug fixes.\n  </p>\n\n    <h2 id=\"whats-new\">\n      What's new:\n    </h2>\n\n  <ul>\n    <li>Sepia tone/night mode tabs</li><li>Noise reduction tabs</li><li>Fruity edition of BCS Author (Ad-free)</li>\n  </ul>\n\n    <h2 id=\"bug-fixes\">\n      Bug fix(es):\n    </h2>\n\n  <ul>\n    <li>FX dropdown links have been repaired</li><li>Users can now ad a new effect-less tab from the FX menu</li>\n  </ul>\n\n  <p>\n    Download it <a href=\"https://gamejolt.com/games/fruity/629125\" target=\"_blank\" rel=\"nofollow noopener\">here</a>.\n  </p>",
+            "content_html": "\n  <p>\n    This version of Lemon includes several new features and a few bug fixes.\n  </p>\n\n    <h2 id=\"whats-new\">\n      What's new:\n    </h2>\n\n  <ul>\n    <li>Sepia tone/night mode tabs</li><li>Noise reduction tabs</li><li>Fruity edition of BCS Author (Ad-free)</li>\n  </ul>\n\n    <h2 id=\"bug-fixes\">\n      Bug fixes:\n    </h2>\n\n  <ul>\n    <li>FX dropdown links have been repaired</li><li>Users can now ad a new effect-less tab from the FX menu</li>\n  </ul>\n\n  <p>\n    Download it <a href=\"https://gamejolt.com/games/fruity/629125\" target=\"_blank\" rel=\"nofollow noopener\">here</a>.\n  </p>",
             "author": {
                 "name": "Borg Creative Studios Dev Team"
             },
@@ -24,7 +24,7 @@
                    "Development"
             ],
             "date_published": "2021-07-05T14:08:26-07:00",
-            "date_modified": "2021-07-05T14:10:56-07:00"
+            "date_modified": "2021-07-05T14:13:21-07:00"
         },
         {
             "id": "https://dev.borgcreative.com/new-download-page-for-fruity.html",
