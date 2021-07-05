@@ -3,7 +3,7 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-07-05T14:13:21-07:00</updated>
+    <updated>2021-07-05T14:14:03-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="Fruity"/>
             <category term="Development"/>
 
-        <updated>2021-07-05T14:13:21-07:00</updated>
+        <updated>2021-07-05T14:14:03-07:00</updated>
             <summary>
                 <![CDATA[
                      This version of Lemon includes several new features and a few bug fixes. Download it here. 
@@ -46,7 +46,7 @@
     </h2>
 
   <ul>
-    <li>FX dropdown links have been repaired</li><li>Users can now ad a new effect-less tab from the FX menu</li>
+    <li>FX dropdown links have been repaired</li><li>Users can now add a new effect-less tab from the FX menu</li>
   </ul>
 
   <p>
