@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/fruity-lemon-230.html",
+            "url": "https://dev.borgcreative.com/fruity-lemon-230.html",
+            "title": "Fruity Lemon 2.3.0",
+            "summary": " A new update is arriving soon (July 10th, 2021). This new update introduces a new fast-action bar on the homepage! Now you can save&hellip;",
+            "content_html": "\n    <h4 id=\"a-new-update-is-arriving-soon-july-10th-2021\">\n      A new update is arriving soon (July 10th, 2021).\n    </h4>\n\n  <p>\n    This new update introduces a new fast-action bar on the homepage!\n  </p>\n\n  <p>\n    Now you can save your top three favorite websites to Fruity's home page.\n  </p>\n\n  <p>\n    Get the update <a href=\"https://gamejolt.com/games/fruity/629125\" target=\"_blank\" rel=\"nofollow noopener\">here</a>.\n  </p>",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+                   "Product Updates",
+                   "Fruity",
+                   "Development"
+            ],
+            "date_published": "2021-07-09T16:18:07-07:00",
+            "date_modified": "2021-07-09T16:18:23-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/fruity-lemon-v220.html",
             "url": "https://dev.borgcreative.com/fruity-lemon-v220.html",
             "title": "Fruity Lemon v2.2.0",
