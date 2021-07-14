@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/bcs-marketing-mk-4.html",
+            "url": "https://dev.borgcreative.com/bcs-marketing-mk-4.html",
+            "title": "BCS Marketing MK 4",
+            "summary": " We have now released BCS Marketing MK 4 for use! MK 4 features improved load times and backend resources. These backend resources improve compatibility&hellip;",
+            "content_html": "\n  <p>\n    We have now released BCS Marketing MK 4 for use!\n  </p>\n\n  <p>\n    MK 4 features improved load times and backend resources. These backend resources improve compatibility and make it easier for us to add technical updates in the future.\n  </p>\n\n    <h2 id=\"for-publishers\">\n      For Publishers\n    </h2>\n\n    <h4 id=\"update-from-mk-3\">\n      Update from MK 3\n    </h4>\n\n  <p>\n    To update from MK 3, all you have to do is replace the \"www\" in the embed source to \"source\" and we got it from there.\n  </p>\n\n    <h4 id=\"install-mk-4\">\n      Install MK 4\n    </h4>\n\n  <p>\n    There are two ways to install the marketing bar.\n  </p>\n\n  <p>\n    Method 1: To install MK 4 on your site (After becoming an approved publisher), paste the embed code* into the source for your website wherever you want the ads to appear.\n  </p>\n\n  <p>\n    Method 2:&nbsp;To install MK 4 on your site (After becoming an approved publisher), paste the script link* into the source for your website wherever you want the ads to appear. After pasting the script*, you will need to paste the function command into the &lt;body&gt; tag of your page.\n  </p>\n\n  <p>\n    *Approved publishers will have the embed script links emailed to them.\n  </p>\n\n    <h2 id=\"platform-compatibilitynbsp\">\n      Platform Compatibility&nbsp;\n    </h2>\n\n  <p>\n    Method 1: This method is the most compatible with publishing platforms. It has been tested on Blogger, but is expected to function on a premium WordPress plan (Functions like MK3 and MK3 has been tested on WordPress).\n  </p>\n\n  <p>\n    Method 2: Best for self-hosted and static pages (GitHub Pages, GitLab Pages, etc). Basically, any platform that you have full control of the source code. This is method will provide the best compatibility.&nbsp;\n  </p>",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+                   "Product Updates",
+                   "Marketing",
+                   "Development"
+            ],
+            "date_published": "2021-07-14T11:08:48-07:00",
+            "date_modified": "2021-07-14T11:08:48-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/fruity-lemon-230.html",
             "url": "https://dev.borgcreative.com/fruity-lemon-230.html",
             "title": "Fruity Lemon 2.3.0",

@@ -3,12 +3,86 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-07-09T16:18:23-07:00</updated>
+    <updated>2021-07-14T11:08:48-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
     <id>https://dev.borgcreative.com</id>
 
+    <entry>
+        <title>BCS Marketing MK 4</title>
+        <author>
+            <name>Borg Creative Studios Dev Team</name>
+        </author>
+        <link href="https://dev.borgcreative.com/bcs-marketing-mk-4.html"/>
+        <id>https://dev.borgcreative.com/bcs-marketing-mk-4.html</id>
+            <category term="Product Updates"/>
+            <category term="Marketing"/>
+            <category term="Development"/>
+
+        <updated>2021-07-14T11:08:48-07:00</updated>
+            <summary>
+                <![CDATA[
+                     We have now released BCS Marketing MK 4 for use! MK 4 features improved load times and backend resources. These backend resources improve compatibility&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    We have now released BCS Marketing MK 4 for use!
+  </p>
+
+  <p>
+    MK 4 features improved load times and backend resources. These backend resources improve compatibility and make it easier for us to add technical updates in the future.
+  </p>
+
+    <h2 id="for-publishers">
+      For Publishers
+    </h2>
+
+    <h4 id="update-from-mk-3">
+      Update from MK 3
+    </h4>
+
+  <p>
+    To update from MK 3, all you have to do is replace the "www" in the embed source to "source" and we got it from there.
+  </p>
+
+    <h4 id="install-mk-4">
+      Install MK 4
+    </h4>
+
+  <p>
+    There are two ways to install the marketing bar.
+  </p>
+
+  <p>
+    Method 1: To install MK 4 on your site (After becoming an approved publisher), paste the embed code* into the source for your website wherever you want the ads to appear.
+  </p>
+
+  <p>
+    Method 2:&nbsp;To install MK 4 on your site (After becoming an approved publisher), paste the script link* into the source for your website wherever you want the ads to appear. After pasting the script*, you will need to paste the function command into the &lt;body&gt; tag of your page.
+  </p>
+
+  <p>
+    *Approved publishers will have the embed script links emailed to them.
+  </p>
+
+    <h2 id="platform-compatibilitynbsp">
+      Platform Compatibility&nbsp;
+    </h2>
+
+  <p>
+    Method 1: This method is the most compatible with publishing platforms. It has been tested on Blogger, but is expected to function on a premium WordPress plan (Functions like MK3 and MK3 has been tested on WordPress).
+  </p>
+
+  <p>
+    Method 2: Best for self-hosted and static pages (GitHub Pages, GitLab Pages, etc). Basically, any platform that you have full control of the source code. This is method will provide the best compatibility.&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fruity Lemon 2.3.0</title>
         <author>
