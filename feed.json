@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/myspeech.html",
+            "url": "https://dev.borgcreative.com/myspeech.html",
+            "title": "MySpeech",
+            "summary": " On September 15th, I announced on my public Instagram that Borg Creative Studios is developing MySpeech, a website/Progressive Web App (PWA) with resources for&hellip;",
+            "content_html": "\n    <figure class=\"blockquote\">\n      <blockquote>On September 15th, I announced on my public Instagram that Borg Creative Studios is developing MySpeech, a website/Progressive Web App (PWA) with resources for individuals with speech impediments and other communication difficulties. As someone who has grown up with a speech impediment, I understand how frustrating and exhausting it can be.</blockquote>\n      <figcaption>Jacob Borg, Co-founder</figcaption>\n    </figure>\n\n  <p>\n    Our goal for MySpeech is for it to be free for anyone. The currently available software can be very expensive, and no one should have to pay to have a voice.\n  </p>\n\n  <p>\n    Please follow our Twitter (@borgcreative) or Instagram (@borgcreativestudios) as we set forth on this quest to make accessibility software more available.\n  </p>",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+                   "MySpeech",
+                   "Development"
+            ],
+            "date_published": "2021-09-23T16:14:53-07:00",
+            "date_modified": "2021-09-23T16:16:03-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/bcs-marketing-mk-4.html",
             "url": "https://dev.borgcreative.com/bcs-marketing-mk-4.html",
             "title": "BCS Marketing MK 4",

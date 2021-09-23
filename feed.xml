@@ -3,12 +3,46 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-07-14T11:08:48-07:00</updated>
+    <updated>2021-09-23T16:16:03-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
     <id>https://dev.borgcreative.com</id>
 
+    <entry>
+        <title>MySpeech</title>
+        <author>
+            <name>Borg Creative Studios Dev Team</name>
+        </author>
+        <link href="https://dev.borgcreative.com/myspeech.html"/>
+        <id>https://dev.borgcreative.com/myspeech.html</id>
+            <category term="MySpeech"/>
+            <category term="Development"/>
+
+        <updated>2021-09-23T16:16:03-07:00</updated>
+            <summary>
+                <![CDATA[
+                     On September 15th, I announced on my public Instagram that Borg Creative Studios is developing MySpeech, a website/Progressive Web App (PWA) with resources for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="blockquote">
+      <blockquote>On September 15th, I announced on my public Instagram that Borg Creative Studios is developing MySpeech, a website/Progressive Web App (PWA) with resources for individuals with speech impediments and other communication difficulties. As someone who has grown up with a speech impediment, I understand how frustrating and exhausting it can be.</blockquote>
+      <figcaption>Jacob Borg, Co-founder</figcaption>
+    </figure>
+
+  <p>
+    Our goal for MySpeech is for it to be free for anyone. The currently available software can be very expensive, and no one should have to pay to have a voice.
+  </p>
+
+  <p>
+    Please follow our Twitter (@borgcreative) or Instagram (@borgcreativestudios) as we set forth on this quest to make accessibility software more available.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>BCS Marketing MK 4</title>
         <author>
