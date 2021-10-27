@@ -3,12 +3,104 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-09-23T16:16:03-07:00</updated>
+    <updated>2021-10-26T18:43:28-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
     <id>https://dev.borgcreative.com</id>
 
+    <entry>
+        <title>Fruity Release (Pineapple 2.4.0)</title>
+        <author>
+            <name>Borg Creative Studios Dev Team</name>
+        </author>
+        <link href="https://dev.borgcreative.com/fruity-release-pineapple-240.html"/>
+        <id>https://dev.borgcreative.com/fruity-release-pineapple-240.html</id>
+            <category term="Product Updates"/>
+            <category term="Fruity"/>
+            <category term="Feature Announcement"/>
+            <category term="Development"/>
+
+        <updated>2021-10-26T18:43:28-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dev.borgcreative.com/media/posts/11/fruitypromo.png" alt="" />
+                     Coming 10-31-2021. This is a big update for Fruity! First, we have rebranded "Fruity - Lemon" to "Fruity - Pineapple." Second, we made some&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://dev.borgcreative.com/media/posts/11/fruitypromo.png" alt="" />
+                
+  <p>
+    Coming 10-31-2021.
+  </p>
+
+  <p>
+    This is a big update for Fruity!
+  </p>
+
+  <p>
+    First, we have rebranded "Fruity - Lemon" to "Fruity - Pineapple."
+  </p>
+
+  <p>
+    Second, we made some updates to the FX tabs and introduced a new effect, Monochrome.
+  </p>
+
+  <p>
+    Third, "Mock Up Mode" is now available for use!
+  </p>
+
+  <p>
+    "Mock Up Mode" is a special browser window that lacks a control bar and branding. This is designed for those moments that you don't want the browser's design interfering with your task. Whether it is making a promo for your website, or live streaming. "Mock Up Mode" is for you.
+  </p>
+
+  <p>
+    You can get any version of Fruity <a href="https://gamejolt.com/games/fruity/629125" rel="nofollow noopener">HERE</a>.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BCS Marketing MK 4</title>
+        <author>
+            <name>Borg Creative Studios Dev Team</name>
+        </author>
+        <link href="https://dev.borgcreative.com/bcs-marketing-mk-4-2.html"/>
+        <id>https://dev.borgcreative.com/bcs-marketing-mk-4-2.html</id>
+
+        <updated>2021-09-29T17:15:50-07:00</updated>
+            <summary>
+                <![CDATA[
+                     A few months ago we updated all ads published with us to MK 3, and last night we updated all ads to MK 4!&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    A few months ago we updated all ads published with us to MK 3, and last night we updated all ads to MK 4!
+  </p>
+
+    <h2 id="thats-cool-but-what-does-that-mean">
+      "That's cool, but what does that mean?"
+    </h2>
+
+  <p>
+    Well, that means that all ads have new features, better analytics, and the same great privacy practices!
+  </p>
+
+    <h2 id="what-kind-of-new-features">
+      "What kind of new features?"
+    </h2>
+
+  <p>
+    BCS Marketing now supports several image ratios/dimensions, ad interaction analytics, better load times, and better privacy for the advertiser (Not just the viewer)!
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>MySpeech</title>
         <author>

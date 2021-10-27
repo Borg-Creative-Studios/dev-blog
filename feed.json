@@ -10,6 +10,39 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/fruity-release-pineapple-240.html",
+            "url": "https://dev.borgcreative.com/fruity-release-pineapple-240.html",
+            "title": "Fruity Release (Pineapple 2.4.0)",
+            "summary": " Coming 10-31-2021. This is a big update for Fruity! First, we have rebranded \"Fruity - Lemon\" to \"Fruity - Pineapple.\" Second, we made some&hellip;",
+            "content_html": "\n  <p>\n    Coming 10-31-2021.\n  </p>\n\n  <p>\n    This is a big update for Fruity!\n  </p>\n\n  <p>\n    First, we have rebranded \"Fruity - Lemon\" to \"Fruity - Pineapple.\"\n  </p>\n\n  <p>\n    Second, we made some updates to the FX tabs and introduced a new effect, Monochrome.\n  </p>\n\n  <p>\n    Third, \"Mock Up Mode\" is now available for use!\n  </p>\n\n  <p>\n    \"Mock Up Mode\" is a special browser window that lacks a control bar and branding. This is designed for those moments that you don't want the browser's design interfering with your task. Whether it is making a promo for your website, or live streaming. \"Mock Up Mode\" is for you.\n  </p>\n\n  <p>\n    You can get any version of Fruity <a href=\"https://gamejolt.com/games/fruity/629125\" rel=\"nofollow noopener\">HERE</a>.\n  </p>",
+            "image": "https://dev.borgcreative.com/media/posts/11/fruitypromo.png",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+                   "Product Updates",
+                   "Fruity",
+                   "Feature Announcement",
+                   "Development"
+            ],
+            "date_published": "2021-10-26T18:35:43-07:00",
+            "date_modified": "2021-10-26T18:43:28-07:00"
+        },
+        {
+            "id": "https://dev.borgcreative.com/bcs-marketing-mk-4-2.html",
+            "url": "https://dev.borgcreative.com/bcs-marketing-mk-4-2.html",
+            "title": "BCS Marketing MK 4",
+            "summary": " A few months ago we updated all ads published with us to MK 3, and last night we updated all ads to MK 4!&hellip;",
+            "content_html": "\n  <p>\n    A few months ago we updated all ads published with us to MK 3, and last night we updated all ads to MK 4!\n  </p>\n\n    <h2 id=\"thats-cool-but-what-does-that-mean\">\n      \"That's cool, but what does that mean?\"\n    </h2>\n\n  <p>\n    Well, that means that all ads have new features, better analytics, and the same great privacy practices!\n  </p>\n\n    <h2 id=\"what-kind-of-new-features\">\n      \"What kind of new features?\"\n    </h2>\n\n  <p>\n    BCS Marketing now supports several image ratios/dimensions, ad interaction analytics, better load times, and better privacy for the advertiser (Not just the viewer)!\n  </p>",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-29T17:11:58-07:00",
+            "date_modified": "2021-09-29T17:15:50-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/myspeech.html",
             "url": "https://dev.borgcreative.com/myspeech.html",
             "title": "MySpeech",
