@@ -3,12 +3,42 @@
     <title>BCS Dev</title>
     <link href="https://dev.borgcreative.com/feed.xml" rel="self" />
     <link href="https://dev.borgcreative.com" />
-    <updated>2021-10-26T18:43:28-07:00</updated>
+    <updated>2021-11-09T17:05:04-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
     <id>https://dev.borgcreative.com</id>
 
+    <entry>
+        <title>MySpeech Commits (11/9/21)</title>
+        <author>
+            <name>Borg Creative Studios Dev Team</name>
+        </author>
+        <link href="https://dev.borgcreative.com/myspeech-commits-11921.html"/>
+        <id>https://dev.borgcreative.com/myspeech-commits-11921.html</id>
+            <category term="Product Updates"/>
+            <category term="MySpeech"/>
+            <category term="Development"/>
+
+        <updated>2021-11-09T17:05:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                     Today we pushed seven new commits to the MySpeech (web) repository on GitHub! We improved functionality, added new options, added more audio recordings, updated&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Today we pushed seven new commits to the MySpeech (web) repository on GitHub!<br><br>We improved functionality, added new options, added more audio recordings, updated the website's SEO, added BCS Analytics tracking code) and updating the advertising sections of the website.<br><br>You can check out the MySpeech website <a href="https://myspeech.borgcreative.com/index.html" target="_blank" rel="nofollow noopener">here</a> or read more about open source at Borg Creative Studios <a href="https://open.borgcreative.com/projects.html" target="_blank" rel="nofollow noopener">here</a>.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fruity Release (Pineapple 2.4.0)</title>
         <author>
@@ -404,29 +434,6 @@
 <p><a href="https://borg-creative-studios.github.io/Project-Pear/" target="_BLANK">Project Pear: Website*</a></p>
 <p><a href="https://github.com/Borg-Creative-Studios/Project-Pear" target="_BLANK">Project Pear: Repository</a></p>
 <p>*The Project Pear website is currently not mobile compatible.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Blog, Who is This?</title>
-        <author>
-            <name>Borg Creative Studios Dev Team</name>
-        </author>
-        <link href="https://dev.borgcreative.com/new-blog-who-is-this.html"/>
-        <id>https://dev.borgcreative.com/new-blog-who-is-this.html</id>
-
-        <updated>2021-07-01T14:40:57-07:00</updated>
-            <summary>
-                <![CDATA[
-                    We are excited to announce the release of our new development blog! Here you are going to be able to find all of the latest&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3 id="we-are-excited-to-announce-the-release-of-our-new-development-blog">We are excited to announce the release of our new development blog!</h3>
-<p>Here you are going to be able to find all of the latest information about our development and software research projects.</p>
-<p>So bookmark this blog and check back later!</p>
 
             ]]>
         </content>

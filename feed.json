@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://dev.borgcreative.com/myspeech-commits-11921.html",
+            "url": "https://dev.borgcreative.com/myspeech-commits-11921.html",
+            "title": "MySpeech Commits (11/9/21)",
+            "summary": " Today we pushed seven new commits to the MySpeech (web) repository on GitHub! We improved functionality, added new options, added more audio recordings, updated&hellip;",
+            "content_html": "\n  <p>\n    Today we pushed seven new commits to the MySpeech (web) repository on GitHub!<br><br>We improved functionality, added new options, added more audio recordings, updated the website's SEO, added BCS Analytics tracking code) and updating the advertising sections of the website.<br><br>You can check out the MySpeech website <a href=\"https://myspeech.borgcreative.com/index.html\" target=\"_blank\" rel=\"nofollow noopener\">here</a> or read more about open source at Borg Creative Studios <a href=\"https://open.borgcreative.com/projects.html\" target=\"_blank\" rel=\"nofollow noopener\">here</a>.\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Borg Creative Studios Dev Team"
+            },
+            "tags": [
+                   "Product Updates",
+                   "MySpeech",
+                   "Development"
+            ],
+            "date_published": "2021-11-09T17:04:43-07:00",
+            "date_modified": "2021-11-09T17:05:04-07:00"
+        },
+        {
             "id": "https://dev.borgcreative.com/fruity-release-pineapple-240.html",
             "url": "https://dev.borgcreative.com/fruity-release-pineapple-240.html",
             "title": "Fruity Release (Pineapple 2.4.0)",
@@ -159,20 +176,6 @@
             ],
             "date_published": "2021-07-01T15:08:05-07:00",
             "date_modified": "2021-07-01T17:25:17-07:00"
-        },
-        {
-            "id": "https://dev.borgcreative.com/new-blog-who-is-this.html",
-            "url": "https://dev.borgcreative.com/new-blog-who-is-this.html",
-            "title": "New Blog, Who is This?",
-            "summary": "We are excited to announce the release of our new development blog! Here you are going to be able to find all of the latest&hellip;",
-            "content_html": "<h3 id=\"we-are-excited-to-announce-the-release-of-our-new-development-blog\">We are excited to announce the release of our new development blog!</h3>\n<p>Here you are going to be able to find all of the latest information about our development and software research projects.</p>\n<p>So bookmark this blog and check back later!</p>\n",
-            "author": {
-                "name": "Borg Creative Studios Dev Team"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-01T14:40:57-07:00",
-            "date_modified": "2021-07-01T14:40:57-07:00"
         }
     ]
 }
